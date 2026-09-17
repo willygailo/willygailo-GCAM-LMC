@@ -14,6 +14,7 @@
 .method public static overrideDefaults(Lddj;Lddf;)V
     .locals 6
 
+    :try_start_0
     move-object v1, p0
 
     check-cast v1, Ldep;
@@ -103,6 +104,13 @@
     sget-object v0, Ldcu;->v:Lddg;
 
     invoke-interface {v1, v0, v2}, Lddk;->s(Lddg;Z)V
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catch_transsion_err
+
+    return-void
+
+    :catch_transsion_err
+    move-exception v0
 
     return-void
 .end method

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="120.0dip" android:paddingEnd="?android:scrollbarSize"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:paddingStart="10.0dip" android:layout_marginEnd="6.0dip">
+        <TextView android:textSize="12.0dip" android:textColor="?android:textColorSecondary" android:layout_gravity="start" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="10" style="@style/PreferenceSummaryTextStyle" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@android:id/widget_frame" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="16.0dip" />
+</LinearLayout>

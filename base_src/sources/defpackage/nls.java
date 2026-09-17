@@ -1,0 +1,94 @@
+package defpackage;
+
+import com.google.android.apps.camera.bottombar.R;
+import java.util.List;
+import java.util.regex.Pattern;
+
+/* JADX INFO: loaded from: classes2.dex */
+public final class nls {
+    public static final String a;
+    public static final String b;
+    public static final String c;
+    public static final String d;
+    public static final String e;
+    private static final String o;
+    private static final String p;
+    private static final String q;
+    private static final String r;
+    private static final String s;
+    public Pattern f;
+    public Pattern g;
+    public Pattern h;
+    public Pattern i;
+    public Pattern j;
+    public Pattern k;
+    public Pattern l;
+    public Pattern m;
+    public List n;
+
+    static {
+        String str = nlr.b;
+        StringBuilder sb = new StringBuilder(String.valueOf(str).length() + 45);
+        sb.append("[\\p{L}\\p{N}]([\\p{L}\\p{N}]|[.\\-])*(?<!www)\\.(");
+        sb.append(str);
+        sb.append(")");
+        String string = sb.toString();
+        o = string;
+        StringBuilder sb2 = new StringBuilder(String.valueOf(string).length() + 18);
+        sb2.append(string);
+        sb2.append("(?<!www)(:[0-9]+)?");
+        String string2 = sb2.toString();
+        p = string2;
+        StringBuilder sb3 = new StringBuilder(String.valueOf(string2).length() + 28);
+        sb3.append("(((http(s)?:(//)?)|(www\\.))");
+        sb3.append(string2);
+        sb3.append(")");
+        String string3 = sb3.toString();
+        q = string3;
+        StringBuilder sb4 = new StringBuilder(String.valueOf(string3).length() + R.styleable.AppCompatTheme_textAppearanceListItemSmall);
+        sb4.append("((");
+        sb4.append(string3);
+        sb4.append(")(/([+~%/.\\-_\\p{L}\\p{N}]*)?\\??([\\-_+=&;,%@.\\p{L}\\p{N}]*)#?([.!/\\\\\\p{L}\\p{N}\\-_]*[!/\\\\\\p{L}\\p{N}\\-_]))?)");
+        String string4 = sb4.toString();
+        r = string4;
+        String str2 = nlr.a;
+        StringBuilder sb5 = new StringBuilder(String.valueOf(str2).length() + 236);
+        sb5.append("((((http(s)?:(//)?)|(www\\.))\\s?[\\p{L}\\p{N}]([\\p{L}\\p{N}]|[.\\-\\s]){0,14})|([\\p{L}\\p{N}]([\\p{L}\\p{N}]|[.\\-])*(?<!www)))(\\.(");
+        sb5.append(str2);
+        sb5.append("))\\b(:[0-9]+)?(/([+~%/.\\-_\\p{L}\\p{N}]*)?\\??([\\-_+=&;,%@.\\p{L}\\p{N}]*)#?([.!/\\\\\\p{L}\\p{N}\\-_]*[!/\\\\\\p{L}\\p{N}\\-_]))?");
+        String string5 = sb5.toString();
+        s = string5;
+        String str3 = nlr.c;
+        StringBuilder sb6 = new StringBuilder(String.valueOf(str3).length() + 85);
+        sb6.append("(?i)(((http(s)?:(//)?)|(www\\.))\\s?[\\p{L}\\p{N}]([\\p{L}\\p{N}]|[.\\-\\s]){0,28}?\\.\\s*)(");
+        sb6.append(str3);
+        sb6.append(")\\b");
+        a = sb6.toString();
+        String str4 = nlr.d;
+        String str5 = nlr.c;
+        StringBuilder sb7 = new StringBuilder(String.valueOf(str4).length() + 61 + String.valueOf(str5).length());
+        sb7.append("(?i)(");
+        sb7.append(str4);
+        sb7.append("(?=\\s?[\\p{L}\\p{N}]([\\p{L}\\p{N}]|[.\\-\\s]){0,28}?\\.\\s*(");
+        sb7.append(str5);
+        sb7.append(")))");
+        b = sb7.toString();
+        StringBuilder sb8 = new StringBuilder(String.valueOf(string4).length() + 1 + String.valueOf(string5).length());
+        sb8.append(string4);
+        sb8.append("|");
+        sb8.append(string5);
+        c = sb8.toString();
+        String str6 = nlr.a;
+        StringBuilder sb9 = new StringBuilder(String.valueOf(str6).length() + 77);
+        sb9.append("(?i)\\b(w{1,2}\\.)([\\p{L}\\p{N}]([\\p{L}\\p{N}]|[.\\-])*(?<!www)\\.(?:");
+        sb9.append(str6);
+        sb9.append(")(:[0-9]+)?)\\b");
+        d = sb9.toString();
+        String str7 = nlr.a;
+        StringBuilder sb10 = new StringBuilder(String.valueOf(str7).length() + 45);
+        sb10.append("(?i)\\b(f{2}acebook|f{2}b)(\\.(?:");
+        sb10.append(str7);
+        sb10.append(")(:[0-9]+)?)\\b");
+        e = sb10.toString();
+    }
+}

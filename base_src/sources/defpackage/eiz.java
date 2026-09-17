@@ -1,0 +1,16 @@
+package defpackage;
+
+/* JADX INFO: loaded from: classes.dex */
+enum eiz {
+    IDLE,
+    SHOW_ROLL_LEFT,
+    SHOW_ROLL_RIGHT,
+    SHOW_ARROW_RIGHT,
+    SHOW_ARROW_LEFT,
+    SHOW_ARROW_UP,
+    SHOW_ARROW_DOWN,
+    SHOW_ARROW_BACKTRACK,
+    SHOW_START_ARROW_LEFT,
+    SHOW_START_ARROW_RIGHT,
+    SHOW_WARNING_VELOCITY
+}

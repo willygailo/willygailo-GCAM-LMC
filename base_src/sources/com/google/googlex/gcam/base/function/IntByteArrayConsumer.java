@@ -1,0 +1,7 @@
+package com.google.googlex.gcam.base.function;
+
+/* JADX INFO: loaded from: classes.dex */
+@FunctionalInterface
+public interface IntByteArrayConsumer {
+    void accept(int i, byte[] bArr);
+}

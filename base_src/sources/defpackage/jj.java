@@ -1,0 +1,7 @@
+package defpackage;
+
+/* JADX INFO: loaded from: classes2.dex */
+final class jj {
+    boolean a;
+    long b;
+}

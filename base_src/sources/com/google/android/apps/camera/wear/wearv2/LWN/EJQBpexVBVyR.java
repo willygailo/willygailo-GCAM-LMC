@@ -1,0 +1,51 @@
+package com.google.android.apps.camera.wear.wearv2.LWN;
+
+/* JADX INFO: loaded from: classes.dex */
+public class EJQBpexVBVyR {
+    public static String DXBWQ;
+    public static String DybIDrxvsfop;
+    public static String EDNDXmsTvYWae;
+    public static String EixeWSnth;
+    public static String EjaooV;
+    public static String EkM;
+    public static String ElPpmzT;
+    public static String GOcTPxSbnFo;
+    public static String HZhJYUiQeqFPwCF;
+    public static String ICaLkr;
+    public static String IbIduaZgap;
+    public static String KURZN;
+    public static String NmrVRMA;
+    public static String OYXGtBGVys;
+    public static String PXhVAh;
+    public static String QSjYvEviYW;
+    public static String SgQmwMKNU;
+    public static String TGPdkPhMUE;
+    public static String TqMEpGJkBY;
+    public static String VhzRcsIH;
+    public static String VnreKj;
+    public static String XoJTIGUhfGwB;
+    public static String XquhlhrSbYGZJ;
+    public static String ZEUAvGcDWMSQY;
+    public static String avRFJZfB;
+    public static String baSQAKR;
+    public static String bgXxPXquCpUAV;
+    public static String bhdWunj;
+    public static String eXh;
+    public static String ehVGxoeUsfd;
+    public static String ejfZzSi;
+    public static String gKlCTvJAMkTLFW;
+    public static String gZpqoNyWbxYNnWx;
+    public static String hvH;
+    public static String ihcHTpsOTWh;
+    public static String kYpnBQNN;
+    public static String ndUwGfVLckwtdKu;
+    public static String pNZmmrcn;
+    public static String pUmtDabAjWSu;
+    public static String pfMrHfVX;
+    public static String qTYDGKy;
+    public static String reGtxHvBfLTlnY;
+    public static String rmToNyUI;
+    public static String uEqHhPiUhi;
+    public static String uOYKvLm;
+    public static String udEGr;
+}

@@ -22,7 +22,10 @@ Custom Google Camera (LMC 8.5 mod) tailored and optimized for Transsion devices 
 
 ## 📦 APK Downloads
 
-- `LMC 8.5.apk` - Signed and ready for direct sideloading.
-- Version Code: `64764892`
-- Version Name: `8.5.300.414775575.18`
-- App Label: `LMC8.5`
+Download the latest prebuilt, signed APK from GitHub Releases:
+- 🚀 **[Download LMC 8.5.apk (Direct Release)](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v1.1.0/LMC.8.5.apk)**
+- **Release Page**: [GitHub Release v1.1.0](https://github.com/willygailo/willygailo-GCAM-LMC/releases/tag/v1.1.0)
+- **Version Code**: `64764892`
+- **Version Name**: `8.5.300.414775575.18`
+- **App Label**: `LMC8.5`
+

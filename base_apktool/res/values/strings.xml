@@ -792,13 +792,14 @@ Frequent Faces won’t be available when saving photos and videos to Locked Fold
     <string name="hsl_manualid">Use listed IDs</string>
     <string name="hsl_entryid">Use given values</string>
     <string name="hsl_info_sensorid">Note: This will modify the corresponding ID between the front and rear cameras.For example, the rear camera = 2, the front camera = 3, the rear camera will use ID 2, and the front camera will use ID 3.If your device has only one camera on the front, please set each front camera ID to 1 (default value)</string>
-    <string name="hsl_info_author">Author modification LMC8.4 - Hasli</string>
+    <string name="hsl_info_author">Author modification LMC8.5 - Hasli</string>
+    <string name="hsl_info_mod">Developer: Hasli (Mod: LMC 8.5)</string>
     <string name="hsl_info_thx">Special thanks to everyone who tested and helped create the mod. And to the developers of other modifications whose work could be used in LMC: BSG, Arnova, Big-Kaka, Shamim, Rashid1980, Burial, Rivov, Tigr, Pit-Bull and others.</string>
     <string name="hsl_info_focusnight">Changing the focus values ​​on this page only affects the focus toggle in the night mode blind</string>
     <string name="new_version_available">An update is available for Camera</string>
     <string name="hsl_info_config">Remember, configs are not compatible between different camera modifications from different developers, and can only be compatible within one application version.</string>
-    <string name="hsl_info_version">"Using Google Camera 8.4.300. 
-Compatibility with camera versions 8.4.300, 8.4.400, possibly 8.4.600"</string>
+    <string name="hsl_info_version">"Using Google Camera 8.5.300. 
+Compatibility with camera versions 8.4.300, 8.4.400, 8.5.300"</string>
     <string name="hsl_info_aux">You can use settings from other possible modules as an additional setting for the main camera. To do this, specify the ID of the main camera opposite the desired module.</string>
     <string name="not_enough_motion_chip">Not enough motion</string>
     <string name="hsl_info_system">The settings on this page are responsible for the stability and performance of the application, it is not recommended to make changes without the need.</string>

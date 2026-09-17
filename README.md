@@ -1,6 +1,6 @@
-# GCAM LMC 8.4 (Tecno & Infinix Edition)
+# GCAM LMC 8.5 (Tecno & Infinix Edition)
 
-Custom Google Camera (LMC 8.4 R18 mod) tailored and optimized for Transsion devices (Tecno, Infinix, and iTel), including models like the Tecno Camon 40 Pro 5G, Infinix GT, Zero, and Note series.
+Custom Google Camera (LMC 8.5 mod) tailored and optimized for Transsion devices (Tecno, Infinix, and iTel), including models like the Tecno Camon 40 Pro 5G, Infinix GT, Zero, and Note series.
 
 ## ✨ Features & Optimizations
 
@@ -22,4 +22,7 @@ Custom Google Camera (LMC 8.4 R18 mod) tailored and optimized for Transsion devi
 
 ## 📦 APK Downloads
 
-- `LMC8.4_Infinix_Tecno_Edition.apk` - Signed and ready for direct sideloading.
+- `LMC 8.5.apk` - Signed and ready for direct sideloading.
+- Version Code: `64764892`
+- Version Name: `8.5.300.414775575.18`
+- App Label: `LMC8.5`

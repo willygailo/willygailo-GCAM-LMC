@@ -45,3 +45,12 @@ Download the latest prebuilt, signed APK and configs from GitHub Releases:
 3. Buksan ang GCAM LMC 8.5.
 4. **Mag-double tap sa black space sa paligid o tabi ng Shutter Button**.
 5. Piliin ang config mula sa pop-up menu at pindutin ang **Import**.
+
+---
+
+## 👤 Developer & Maintainer
+
+- 🌐 **GitHub**: [@willygailo](https://github.com/willygailo)
+- 📘 **Facebook**: [Willy Jr Carnasa Gailo](https://www.facebook.com/https.willy.jr.carnasa.gailo2026.2027)
+- 📂 **Project Repository**: [willygailo/willygailo-GCAM-LMC](https://github.com/willygailo/willygailo-GCAM-LMC)
+

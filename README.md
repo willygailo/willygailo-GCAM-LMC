@@ -29,3 +29,19 @@ Download the latest prebuilt, signed APK from GitHub Releases:
 - **Version Name**: `8.5.300.414775575.18`
 - **App Label**: `LMC8.5`
 
+## ⚙️ XML Configurations (Optional Presets)
+
+> [!NOTE]
+> Ang **LMC 8.5** ay **100% Plug-and-Play** — naka-bake na ang lahat ng pro-settings sa mismong app kaya hindi na kailangan mag-import ng XML para sa pang-araw-araw na paggamit.
+> Gayunpaman, kung nais mo ng specialized tuning profiles, maaari mong gamitin ang mga kasamang `.xml` config:
+
+- 📄 [`Tecno_Infinix_Master_Pro.xml`](configs/Tecno_Infinix_Master_Pro.xml) — Daily driver: Leica Vibrant/Authentic, 15-frame HDR+, Shasta Denoising.
+- 📄 [`Tecno_Infinix_Night_Astro.xml`](configs/Tecno_Infinix_Night_Astro.xml) — Night Sight & Astrophotography: 25-frame deep computational HDR+, long exposure.
+- 📄 [`Tecno_Infinix_Cinematic_Video.xml`](configs/Tecno_Infinix_Cinematic_Video.xml) — 4K 60FPS studio video recording, 48-100 Mbps bitrate, active EIS.
+
+### Paano I-load ang XML Config:
+1. Gumawa ng folder sa phone storage: `Internal Storage/LMC8.4/`
+2. Kopyahin ang nais na `.xml` file sa loob ng folder na `LMC8.4`.
+3. Buksan ang GCAM LMC 8.5.
+4. **Mag-double tap sa black space sa paligid o tabi ng Shutter Button**.
+5. Piliin ang config mula sa pop-up menu at pindutin ang **Import**.

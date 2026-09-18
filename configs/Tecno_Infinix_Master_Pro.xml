@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <!-- Hardware & Base Settings for Tecno & Infinix -->
+    <string name="pref_device_key">0</string>
+    <string name="pref_device_key_front">0</string>
+    <string name="pref_rn8p_key">1</string>
+    <string name="pref_samsungfix_key">-1</string>
+
+    <!-- Color Science & White Balance -->
+    <string name="pref_awb_key">4</string>
+    <string name="pref_awb_key_front">4</string>
+    <string name="lib_wbbaseframe_key">1</string>
+
+    <!-- Lossless Photo Quality -->
+    <string name="pref_qjpg_key">100</string>
+    <string name="lib_hardjpgquality_key">15008052</string>
+    <string name="lib_hardjpgquality_key_front">15008052</string>
+
+    <!-- HDR+ Golden Ratio Speed & Dynamic Range -->
+    <string name="pref_frames_hdr_key">15</string>
+    <string name="pref_frames_hdr_key_front">12</string>
+
+    <!-- LibPatcher ISP Processing & Denoising -->
+    <string name="pref_enable_patcher_key">1</string>
+    <string name="lib_shastaforce_key">1</string>
+    <string name="lib_shastafactor_key">1</string>
+    <string name="lib_withtetmismatch_key">1</string>
+
+    <!-- Professional Viewfinder HUD Toggles -->
+    <string name="pref_show_button_leica">1</string>
+    <string name="pref_show_button_awb">1</string>
+    <string name="pref_show_button_pro">1</string>
+    <string name="pref_show_button_expslide">1</string>
+    <string name="pref_show_button_ois">1</string>
+    <string name="pref_show_button_af">1</string>
+
+    <!-- Studio Video Parameters -->
+    <string name="pref_bitrate_key">12</string>
+    <boolean name="pref_video_stabilization_key" value="true" />
+</map>

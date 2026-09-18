@@ -204,7 +204,7 @@
 
     move-result-object v3
 
-    const-string v4, "/LMC8.4/NOISE MODELER/"
+    const-string v4, "/LMC8.5/NOISE MODELER/"
 
     invoke-static {v4}, Lxxx;->CrtFolder(Ljava/lang/String;)V
 

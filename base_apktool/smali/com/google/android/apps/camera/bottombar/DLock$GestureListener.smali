@@ -40,7 +40,7 @@
 
     invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
 
-    const-string v1, "/LMC8.4/"
+    const-string v1, "/LMC8.5/"
 
     invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -410,7 +410,7 @@
 
     move-result-object v0
 
-    const-string v1, "/storage/emulated/0/LMC8.4/"
+    const-string v1, "/storage/emulated/0/LMC8.5/"
 
     const-string v2, ""
 
@@ -474,7 +474,7 @@
 
     move-result-object v0
 
-    const-string v1, "/storage/emulated/0/LMC8.4/"
+    const-string v1, "/storage/emulated/0/LMC8.5/"
 
     const-string v2, ""
 
@@ -482,7 +482,7 @@
 
     move-result-object v3
 
-    const-string v2, "lmc_8.4"
+    const-string v2, "lmc_8.5"
 
     invoke-virtual {p0, v2, v3}, Ljava/lang/String;->replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;
 
@@ -494,7 +494,7 @@
 
     move-result-object p0
 
-    const-string v2, "lmc_8.4"
+    const-string v2, "lmc_8.5"
 
     invoke-virtual {p0, v2, v3}, Ljava/lang/String;->replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;
 

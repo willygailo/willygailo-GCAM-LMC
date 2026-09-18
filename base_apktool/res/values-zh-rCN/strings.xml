@@ -196,7 +196,7 @@
     <string name="cam_flash_off_alt">无</string>
     <string name="cam_flash_on">开启</string>
     <string name="cam_flash_on_alt">闪光灯</string>
-    <string name="pref_value_front_summary">配置存储在/ConfigsSettings8.4/文件夹。双击快门释放装置周围的黑暗区域，使用configs调用窗口。</string>
+    <string name="pref_value_front_summary">配置存储在/ConfigsSettings8.5/文件夹。双击快门释放装置周围的黑暗区域，使用configs调用窗口。</string>
     <string name="xml_in">保存 XML 配置</string>
     <string name="exposure_time">曝光时间</string>
     <string name="exposure_time_front">前置镜头曝光时间</string>
@@ -353,7 +353,7 @@
     <string name="ev_announcement">目前的曝光值为 %1$s</string>
     <string name="ev_reset_button_accessibility_description">重置曝光按钮</string>
     <string name="hsl_saveconfig">保存设置</string>
-    <string name="hsl_saveconfig_desc">设置保存在根目录/LMC8.4/</string>
+    <string name="hsl_saveconfig_desc">设置保存在根目录/LMC8.5/</string>
     <string name="hsl_zoomfactor">最大变焦</string>
     <string name="hsl_motionres">动态照片视频分辨率</string>
     <string name="hsl_motionres_desc">当你按下快门按钮时，视频会被录制下来</string>
@@ -1076,13 +1076,13 @@
     <string name="hsl_ldrextra">可选择的</string>
     <string name="hsl_ldrlight">光影设置</string>
     <string name="hsl_confimport">重置设置</string>
-    <string name="hsl_confimport_desc">当前设置将被重置。手机中的配置将显示在/LMC8.4/文件夹。</string>
+    <string name="hsl_confimport_desc">当前设置将被重置。手机中的配置将显示在/LMC8.5/文件夹。</string>
     <string name="pref_aemode_back_title">后置镜头快门HDR+</string>
     <string name="pref_aemode_front_title">前置镜头快门HDR+</string>
     <string name="hsl_libs_title">自定义库</string>
     <string name="hsl_libs_title_summary">如果使用其他库，则必须在模块设置中启用军刀。</string>
-    <string name="hsl_libsave">将库保存在/LMC8.4/patchedlibs/</string>
-    <string name="hsl_libload">您可以从/LMC8.4/libs/目录加载库。选择（来自目录的自定义库）并选择库文件</string>
+    <string name="hsl_libsave">将库保存在/LMC8.5/patchedlibs/</string>
+    <string name="hsl_libload">您可以从/LMC8.5/libs/目录加载库。选择（来自目录的自定义库）并选择库文件</string>
     <string name="hsl_infolibsignature">如何签名一个库？</string>
     <string name="libsignature">修正: 5a657461326578312e ZETA2EX1. (Zed) A-41,B-42,C-43,D-44,E-45,F-46,G-47,H-48,I-49,J-4A,K-4B,L-4C,M-4D,N-4E,0-4F,P-50,Q-51,R-52,S,T-54,U-55,V-56,W-57,X-58,Y-59, Z-5A (Spatid) a-61,b-62,c-63,d-64,e-65,f-66,g-67,h-68,i-69,j-6A,k-6B,l-6C,m-6D,n-6E,o-6F,p-70,q-71,r-72,s-73,t-74,u-75,v-76,w-77,x-78,y-79,z-7A (Intel) 0-30,1-31,2-32,3-33,4-34,5-35,6-36,7-37,8-38,9-39 (Deat) + 2B,- 2D,. 2E, 2F,@ 40</string>
     <string name="hsl_curves">设置曲线</string>

@@ -1432,7 +1432,7 @@
 
     move-result-object v2
 
-    const-string v3, "/LMC8.4/patchedlibs/"
+    const-string v3, "/LMC8.5/patchedlibs/"
 
     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -1467,7 +1467,7 @@
 
     move-result-object v2
 
-    const-string v3, "/LMC8.4/libs/"
+    const-string v3, "/LMC8.5/libs/"
 
     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -1508,7 +1508,7 @@
 
     move-result-object v0
 
-    const-string v1, "/LMC8.4/files/"
+    const-string v1, "/LMC8.5/files/"
 
     invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -2494,7 +2494,7 @@
 
     move-result-object v2
 
-    const-string v3, "/LMC8.4/AWB/"
+    const-string v3, "/LMC8.5/AWB/"
 
     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -2529,7 +2529,7 @@
 
     move-result-object v2
 
-    const-string v3, "/LMC8.4/NOISE MODELER/"
+    const-string v3, "/LMC8.5/NOISE MODELER/"
 
     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 

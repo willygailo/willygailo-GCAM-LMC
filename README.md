@@ -50,7 +50,7 @@ Download the latest prebuilt, signed APK and configs directly from **[GitHub Rel
 
 > [!NOTE]
 > Ang **LMC 8.5** ay **100% Plug-and-Play** — naka-bake na ang lahat ng pro-settings sa mismong app kaya hindi na kailangan mag-import ng XML para sa pang-araw-araw na paggamit.
-> Gayunpaman, kung nais mo ng specialized tuning profiles, maaari mong gamitin ang mga sumusunod na **Full-Schema LMC 8.4/8.5 XML configs** (tested at 100% importable nang walang crash o missing settings):
+> Gayunpaman, kung nais mo ng specialized tuning profiles, maaari mong gamitin ang mga sumusunod na **Full-Schema LMC 8.5 XML configs** (tested at 100% importable nang walang crash o missing settings):
 
 | Preset File | Photography / Video Focus | Direct XML Download |
 | :--- | :--- | :--- |
@@ -73,8 +73,8 @@ Download the latest prebuilt, signed APK and configs directly from **[GitHub Rel
 | 🎬 [`Tecno_Infinix_Cinematic_Video.xml`](configs/Tecno_Infinix_Cinematic_Video.xml) | **Cinematic Video**: 4K 60FPS studio video recording, 48-100 Mbps bitrate, active Action Mode EIS+OIS. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Cinematic_Video.xml)** |
 
 ### Paano I-load ang XML Config:
-1. Gumawa ng folder sa phone storage: `Internal Storage/LMC8.4/`
-2. Kopyahin ang nais na `.xml` file sa loob ng folder na `LMC8.4`.
+1. Gumawa ng folder sa phone storage: `Internal Storage/LMC8.5/`
+2. Kopyahin ang nais na `.xml` file sa loob ng folder na `LMC8.5`.
 3. Buksan ang **GCAM LMC 8.5**.
 4. **Mag-double tap sa black space sa paligid o tabi ng Shutter Button**.
 5. Piliin ang config mula sa pop-up menu at pindutin ang **Import**.

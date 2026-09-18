@@ -287,7 +287,7 @@
     <string name="ev_announcement">Текущее значение выдержки: %1$s</string>
     <string name="ev_reset_button_accessibility_description">Кнопка сброса экспозиции</string>
     <string name="hsl_saveconfig">Сохранить настройки</string>
-    <string name="hsl_saveconfig_desc">Настройки сохраняться в корневом каталоге /LMC8.4/</string>
+    <string name="hsl_saveconfig_desc">Настройки сохраняться в корневом каталоге /LMC8.5/</string>
     <string name="hsl_zoomfactor">Максимальный зум</string>
     <string name="hsl_motionres">Разрешение видео динамического фото</string>
     <string name="hsl_motionres_desc">Видео будет записываться при удержании кнопки затвора</string>
@@ -535,7 +535,7 @@
     <string name="hsl_video60front">Видео 60 кадров Фронтальная камера</string>
     <string name="hsl_video4k60">Разблокировать видео 4К60 кадров</string>
     <string name="hsl_bitrate">Битрейт видео</string>
-    <string name="hsl_savelibpatch">Сохранять патченную либу в папку /LMC8.4/patchedlibs</string>
+    <string name="hsl_savelibpatch">Сохранять патченную либу в папку /LMC8.5/patchedlibs</string>
     <string name="hsl_save">Сохранять</string>
     <string name="hsl_nosave">Не сохранять</string>
     <string name="hsl_signlibpatch">Подписать патченную либу</string>
@@ -668,13 +668,13 @@
     <string name="hsl_manualid">Использовать перечисленные ID</string>
     <string name="hsl_entryid">Использовать заданные значения</string>
     <string name="hsl_info_sensorid">Примечание. Это изменит соответствующий идентификатор между передней и задней камерами. Например, задняя камера = 2, передняя камера = 3, задняя камера будет использовать идентификатор 2, а передняя камера будет использовать идентификатор 3. Если ваше устройство имеет только одну камеру на передней панели, установите идентификатор каждой передней камеры на 1 (значение по умолчанию)</string>
-    <string name="hsl_info_author">Автор модификации LMC8.4 - Hasli</string>
+    <string name="hsl_info_author">Автор модификации LMC8.5 - Hasli (RU). Tecno &amp; Infinix Edition: Willy Gailo</string>
     <string name="hsl_info_thx">Отдельная благодарность всем кто тестировал и помогал при создании модификации. И разработчикам других модификаций, чьи наработки могли быть использованы в LMC: BSG, Arnova, Big-Kaka, Shamim, Rashid1980, Burial, Rivov, Tigr, Pit-Bull и другие.</string>
     <string name="hsl_info_focusnight">Изменение значений фокуса на данной странице влияет только на переключатель фокуса в шторке в ночном режиме</string>
     <string name="new_version_available">Для приложения \"Камера\" доступно обновление.</string>
     <string name="hsl_info_config">Помните, конфиги не совместимы между разными модификациями камеры от разных разработчиков, и могут иметь совместимость только внутри одной версии приложения.</string>
-    <string name="hsl_info_version">"Используется Google Camera 8.4.300. 
-Совместимость с версиями камеры 8.4.300, 8.4.400, возможно 8.4.600"</string>
+    <string name="hsl_info_version">"Используется Google Camera 8.5.300. 
+Совместимость с версиями камеры 8.4.300, 8.4.400, 8.5.300"</string>
     <string name="hsl_info_aux">Вы можете использовать настройки от других возможных модулей как дополнительную настройку основной камеры. Для этого укажите ID основной камеры напротив нужного модуля.</string>
     <string name="not_enough_motion_chip">Недостаточно движения</string>
     <string name="hsl_info_system">Настройки на данной странице отвечают за стабильность и работоспособность приложения, не рекомендуется вносить изменения без надобности.</string>
@@ -939,7 +939,7 @@ Resampling - Выбор метода интерполяции итогового
     <string name="hsl_evslidersize">Стандартный размер слайдера экспозиции</string>
     <string name="setting_off">Отключено</string>
     <string name="hsl_jawbbutton">Авто баланс белого by Julian T.</string>
-    <string name="hsl_libdesc">Выберите (Сторонняя библиотеки из папки /LMC8.4/) и укажите файл библиотеки</string>
+    <string name="hsl_libdesc">Выберите (Сторонняя библиотеки из папки /LMC8.5/) и укажите файл библиотеки</string>
     <string name="hsl_libentry">Сторонняя библиотека</string>
     <string name="hsl_catgain">Резкость Gain</string>
     <string name="hsl_catgain_desc">Заменяет работу любых других шарпов</string>
@@ -1109,7 +1109,7 @@ Resampling - Выбор метода интерполяции итогового
     <string name="turn_off_lsm_dialog_title">Отключить сжатие файлов?</string>
     <string name="hsl_vibro">Включить вибрацию кнопок LMC</string>
     <string name="hsl_a_a">Автор модификации LMC - Hasli (RU).</string>
-    <string name="hsl_a_b">Помимо уникальной части, в модификации LMC8.4 так-же были использованы наработки из других модификаций.</string>
+    <string name="hsl_a_b">Помимо уникальной части, в модификации LMC8.5 так-же были использованы наработки из других модификаций.</string>
     <string name="hsl_a_c">Выражаю благодарность авторам модификаций:</string>
     <string name="update_camera_to_use_lens">Проверьте наличие обновлений</string>
     <string name="hsl_a_d">LMC является проектом с открытым кодом, и в большинстве своём обязана друзьям из LMC TEST группы и сообществу 4PDA.</string>
@@ -1181,8 +1181,8 @@ Resampling - Выбор метода интерполяции итогового
     <string name="hsl_confimport_desc">Текущие настройки будут сброшены.</string>
     <string name="hsl_libs_title">Библиотека</string>
     <string name="hsl_libs_title_summary">При использовании других библиотек необходимо активировать Sabre в настройках модулей.</string>
-    <string name="hsl_libsave">Сохраните библиотеку в каталоге /LMC8.4/patchedlibs/</string>
-    <string name="hsl_libload">Вы можете загрузить либу из каталога /LMC8.4/libs/. Выберите (Custom Lib from Dir) и выберите файл либы</string>
+    <string name="hsl_libsave">Сохраните библиотеку в каталоге /LMC8.5/patchedlibs/</string>
+    <string name="hsl_libload">Вы можете загрузить либу из каталога /LMC8.5/libs/. Выберите (Custom Lib from Dir) и выберите файл либы</string>
     <string name="hsl_infolibsignature">Как подписать либу?</string>
     <string name="hsl_curves">Настройка кривых</string>
     <string name="hsl_tonecurve">Тоновая кривая</string>

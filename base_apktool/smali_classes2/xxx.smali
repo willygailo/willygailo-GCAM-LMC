@@ -290,7 +290,7 @@
 .method public final saveSharedPreferences(Ljava/lang/String;)V
     .locals 10
 
-    const-string v0, "/LMC8.4/"
+    const-string v0, "/LMC8.5/"
 
     invoke-virtual {p0, v0}, Lxxx;->createFolderConfig(Ljava/lang/String;)V
 

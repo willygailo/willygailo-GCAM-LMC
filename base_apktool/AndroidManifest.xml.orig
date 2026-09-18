@@ -73,7 +73,7 @@
     <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
     <uses-permission android:name="android.permission.HIGH_SAMPLING_RATE_SENSORS"/>
     <uses-feature android:name="android.hardware.camera"/>
-    <application android:allowBackup="false" android:backupAgent="com.google.android.apps.camera.backup.CameraBackupAgent" android:extractNativeLibs="true" android:fullBackupOnly="false" android:hardwareAccelerated="true" android:icon="@mipmap/adaptiveproduct_pixelcamera" android:label="LMC8.4" android:largeHeap="true" android:name="com.google.android.apps.camera.legacy.app.app.CameraApp" android:requestLegacyExternalStorage="true" android:restoreAnyVersion="true" android:supportsRtl="true" android:taskAffinity="" android:theme="@style/Theme.Camera">
+    <application android:allowBackup="false" android:backupAgent="com.google.android.apps.camera.backup.CameraBackupAgent" android:extractNativeLibs="true" android:fullBackupOnly="false" android:hardwareAccelerated="true" android:icon="@mipmap/adaptiveproduct_pixelcamera" android:label="LMC8.5" android:largeHeap="true" android:name="com.google.android.apps.camera.legacy.app.app.CameraApp" android:requestLegacyExternalStorage="true" android:restoreAnyVersion="true" android:supportsRtl="true" android:taskAffinity="" android:theme="@style/Theme.Camera">
         <uses-library android:name="com.google.android.gestureservice" android:required="false"/>
         <uses-library android:name="com.google.android.camera2" android:required="false"/>
         <uses-library android:name="com.google.android.camera.experimental2015" android:required="false"/>

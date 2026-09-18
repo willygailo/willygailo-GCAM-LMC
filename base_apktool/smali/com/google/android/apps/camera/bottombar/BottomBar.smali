@@ -695,7 +695,7 @@
 
     if-eqz v1, :cond_0
 
-    const-string v0, "/LMC8.4/"
+    const-string v0, "/LMC8.5/"
 
     :cond_0
     return-object v0

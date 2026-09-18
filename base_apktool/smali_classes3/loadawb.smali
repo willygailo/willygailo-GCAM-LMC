@@ -204,7 +204,7 @@
 
     move-result-object v3
 
-    const-string v4, "/LMC8.4/AWB/"
+    const-string v4, "/LMC8.5/AWB/"
 
     invoke-static {v4}, Lxxx;->CrtFolder(Ljava/lang/String;)V
 

@@ -191,7 +191,7 @@
     <string name="cam_flash_off_alt">Nenhum</string>
     <string name="cam_flash_on">Ligado</string>
     <string name="cam_flash_on_alt">Flash</string>
-    <string name="pref_value_front_summary">As configurações são armazenadas na pasta /ConfigsSettings8.4/. Chamando a janela com configurações clicando duas vezes na área escura ao redor do obturador.</string>
+    <string name="pref_value_front_summary">As configurações são armazenadas na pasta /ConfigsSettings8.5/. Chamando a janela com configurações clicando duas vezes na área escura ao redor do obturador.</string>
     <string name="xml_in">XML Salvar Configurações</string>
     <string name="exposure_time">Tempo de exposição</string>
     <string name="exposure_time_front">Frente de tempo de exposição</string>
@@ -348,7 +348,7 @@
     <string name="ev_announcement">A exposição agora é %1$s</string>
     <string name="ev_reset_button_accessibility_description">Botão de redefinição de exposição</string>
     <string name="hsl_saveconfig">Salvar configurações</string>
-    <string name="hsl_saveconfig_desc">As configurações são salvas no diretório raiz /LMC8.4/</string>
+    <string name="hsl_saveconfig_desc">As configurações são salvas no diretório raiz /LMC8.5/</string>
     <string name="hsl_zoomfactor">Zoom máximo</string>
     <string name="hsl_motionres">Resolução de vídeo de foto em movimento</string>
     <string name="hsl_motionres_desc">O vídeo será gravado quando você pressionar o botão do obturador</string>
@@ -1090,13 +1090,13 @@
     <string name="hsl_ldrextra">Opcional</string>
     <string name="hsl_ldrlight">Luz e sombra</string>
     <string name="hsl_confimport">Importar configurações prontas</string>
-    <string name="hsl_confimport_desc">As configurações atuais serão redefinidas. As configurações para o modelo do seu telefone aparecerão na pasta /LMC8.4/.</string>
+    <string name="hsl_confimport_desc">As configurações atuais serão redefinidas. As configurações para o modelo do seu telefone aparecerão na pasta /LMC8.5/.</string>
     <string name="pref_aemode_back_title">Obturador da câmera traseira HDR+</string>
     <string name="pref_aemode_front_title">Obturador da câmera frontal HDR+</string>
     <string name="hsl_libs_title">Biblioteca</string>
     <string name="hsl_libs_title_summary">Se estiver usando outras bibliotecas, o Sabre deve ser ativado nas configurações do módulo.</string>
-    <string name="hsl_libsave">Salve a biblioteca em /LMC8.4/patchedlibs/</string>
-    <string name="hsl_libload">Você pode carregar uma lib do diretório /LMC8.4/libs/. Selecione (Custom Lib from Dir) e selecione o arquivo lib</string>
+    <string name="hsl_libsave">Salve a biblioteca em /LMC8.5/patchedlibs/</string>
+    <string name="hsl_libload">Você pode carregar uma lib do diretório /LMC8.5/libs/. Selecione (Custom Lib from Dir) e selecione o arquivo lib</string>
     <string name="hsl_infolibsignature">Como assinar uma lib?</string>
     <string name="libsignature">Alteração: 5a657461326578312e ZETA2EX1. (Zed) A-41,B-42,C-43,D-44,E-45,F-46,G-47,H-48,I-49,J-4A,K-4B,L-4C ,M-4D,N-4E,0-4F,P-50,Q-51,R-52,S,T-54,U-55,V-56,W-57,X-58,Y-59 , Z-5A (Espírito) a-61,b-62,c-63,d-64,e-65,f-66,g-67,h-68,i-69,j-6A,k-6B ,l-6C,m-6D,n-6E,o-6F,p-70,q-71,r-72,s-73,t-74,u-75,v-76,w-77,x -78,y-79,z-7A (Intel) 0-30,1-31,2-32,3-33,4-34,5-35,6-36,7-37,8-38,9 -39 (Morte) + 2B,- 2D,. 2E, 2F, @ 40</string>
     <string name="hsl_curves">Definir curvas</string>

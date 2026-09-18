@@ -3919,7 +3919,7 @@
                 <Preference android:icon="@drawable/quantum_gm_ic_info_outline_black_24" android:layout="@layout/pwm_info" android:title="@string/hsl_info_uservalue" android:key="hsl_info" />
             </PreferenceScreen>
             <Preference android:icon="@drawable/hsl_tg" android:layout="@layout/pwm_info" android:title="@string/hsl_gcambook" android:key="pref_category_about6">
-                <intent android:action="android.intent.action.VIEW" android:data="https://t.me/gcam_book" />
+                <intent android:action="android.intent.action.VIEW" android:data="https://github.com/willygailo/willygailo-GCAM-LMC#readme" />
             </Preference>
         </PreferenceScreen>
         <PreferenceScreen android:icon="@drawable/hsl_tweak" android:layout="@layout/preference_with_margin" android:title="@string/hsl_screentweak" android:key="pref_screen_tweak" android:summary="@string/hsl_screentweak_desc">
@@ -4231,7 +4231,7 @@
             <Preference android:icon="@drawable/quantum_gm_ic_sd_card_alert_white_24" android:layout="@layout/preference_with_margin" android:title="@string/hsl_saveconfig" android:key="pref_config_name_fast_option_available_key" android:summary="@string/hsl_saveconfig_desc" />
             <Preference android:icon="@drawable/quantum_gm_ic_get_app_white_24" android:layout="@layout/preference_with_margin" android:title="@string/hsl_confimport" android:key="pref_deleted_settings_option_available_key" android:summary="@string/hsl_confimport_desc" />
             <Preference android:icon="@drawable/hsl_tg" android:layout="@layout/pwm_info" android:title="@string/hsl_lmc_configs" android:key="pref_category_about7">
-                <intent android:action="android.intent.action.VIEW" android:data="https://t.me/lmc_configs" />
+                <intent android:action="android.intent.action.VIEW" android:data="https://github.com/willygailo/willygailo-GCAM-LMC/releases" />
             </Preference>
         </PreferenceScreen>
     </PreferenceCategory>
@@ -4350,17 +4350,17 @@
     <PreferenceScreen android:icon="@drawable/hsl_manual" android:layout="@layout/hsl_pwmsecond" android:title="@string/pref_developer_settings" android:key="pref_category_developer" />
     <PreferenceScreen android:icon="@drawable/hsl_tg" android:layout="@layout/pwm_info" android:title="@string/hsl_lmc" android:key="screen_manual_id">
         <PreferenceCategory android:layout="@layout/hsl_thx" android:key="emptycategory" />
-        <Preference android:layout="@layout/hsl_tg2" android:title="SGCAM (by Shamim)" android:key="pref_category_about5">
-            <intent android:action="android.intent.action.VIEW" android:data="https://t.me/googlecameramodbyshamim" />
+        <Preference android:layout="@layout/hsl_tg2" android:title="Maintainer GitHub (@willygailo)" android:key="pref_category_about5">
+            <intent android:action="android.intent.action.VIEW" android:data="https://github.com/willygailo" />
         </Preference>
-        <Preference android:layout="@layout/hsl_tg2" android:title="AGC (by Big-Kaka)" android:key="pref_category_about2">
-            <intent android:action="android.intent.action.VIEW" android:data="https://t.me/agc_and_more_mod" />
+        <Preference android:layout="@layout/hsl_tg2" android:title="GCAM LMC 8.5 Repository" android:key="pref_category_about2">
+            <intent android:action="android.intent.action.VIEW" android:data="https://github.com/willygailo/willygailo-GCAM-LMC" />
         </Preference>
-        <Preference android:layout="@layout/hsl_tg2" android:title="GCam NEWS" android:key="pref_category_about3">
-            <intent android:action="android.intent.action.VIEW" android:data="https://t.me/gcambrnews" />
+        <Preference android:layout="@layout/hsl_tg2" android:title="Download Configs &amp; Updates" android:key="pref_category_about3">
+            <intent android:action="android.intent.action.VIEW" android:data="https://github.com/willygailo/willygailo-GCAM-LMC/releases" />
         </Preference>
-        <Preference android:icon="@drawable/hsl_tg" android:layout="@layout/pwm_info" android:title="@string/hsl_lmc_friends" android:key="pref_category_about4">
-            <intent android:action="android.intent.action.VIEW" android:data="https://t.me/gcamlm" />
+        <Preference android:icon="@drawable/ic_maintainer_24" android:layout="@layout/pwm_info" android:title="Developer Facebook" android:key="pref_category_about4">
+            <intent android:action="android.intent.action.VIEW" android:data="https://www.facebook.com/https.willy.jr.carnasa.gailo2026.2027" />
         </Preference>
         <PreferenceCategory android:layout="@layout/hsl_smalltext" android:title="@string/hsl_a_d" android:key="emptycategory" />
     </PreferenceScreen>

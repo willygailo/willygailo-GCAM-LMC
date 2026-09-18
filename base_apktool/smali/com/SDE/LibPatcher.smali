@@ -6811,7 +6811,7 @@
 
     invoke-direct {v5}, Ljava/lang/StringBuilder;-><init>()V
 
-    const-string v3, "/LMC8.4/libs/"
+    const-string v3, "/LMC8.5/libs/"
 
     invoke-virtual {v5, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -6946,7 +6946,7 @@
 
     invoke-direct {v5}, Ljava/lang/StringBuilder;-><init>()V
 
-    const-string v3, "/LMC8.4/patchedlibs/"
+    const-string v3, "/LMC8.5/patchedlibs/"
 
     invoke-virtual {v5, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 

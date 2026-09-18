@@ -50,7 +50,7 @@
 
     move-result-object v13
 
-    const-string v14, "/LMC8.4/files/"
+    const-string v14, "/LMC8.5/files/"
 
     invoke-virtual {v13, v14}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 

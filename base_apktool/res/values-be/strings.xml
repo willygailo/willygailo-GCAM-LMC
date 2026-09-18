@@ -287,7 +287,7 @@
     <string name="ev_announcement">Бягучы значэнне вытрымкі: %1$s</string>
     <string name="ev_reset_button_accessibility_description">Кнопка скіду экспазіцыі</string>
     <string name="hsl_saveconfig">Захаваць наладкі</string>
-    <string name="hsl_saveconfig_desc">Налады захоўвацца ў каранёвым каталогу /LMC8.4/</string>
+    <string name="hsl_saveconfig_desc">Налады захоўвацца ў каранёвым каталогу /LMC8.5/</string>
     <string name="hsl_zoomfactor">Максімальны зум</string>
     <string name="hsl_motionres">Дазвол відэа дынамічнага фота</string>
     <string name="hsl_motionres_desc">Відэа будзе запісвацца пры ўтрыманні кнопкі засаўкі</string>
@@ -535,7 +535,7 @@
     <string name="hsl_video60front">Відэа 60 кадраў Франтальная камера</string>
     <string name="hsl_video4k60">Разблакаваць відэа 4К60 кадраў</string>
     <string name="hsl_bitrate">Бітрэйт відэа</string>
-    <string name="hsl_savelibpatch">Захоўваць патчаную лібу ў тэчку /LMC8.4/patchedlibs</string>
+    <string name="hsl_savelibpatch">Захоўваць патчаную лібу ў тэчку /LMC8.5/patchedlibs</string>
     <string name="hsl_save">Захоўваць</string>
     <string name="hsl_nosave">Не захоўваць</string>
     <string name="hsl_signlibpatch">Падпісаць патчаную лібу</string>
@@ -668,13 +668,13 @@
     <string name="hsl_manualid">Выкарыстоўваць пералічаныя ID</string>
     <string name="hsl_entryid">Выкарыстоўваць зададзеныя значэння</string>
     <string name="hsl_info_sensorid">Заўвага. Гэта зменіць які адпавядае ідэнтыфікатар паміж перадпакоем і задняй камерамі. Напрыклад, задняя камера = 2, пярэдняя камера = 3, задняя камера будзе выкарыстоўваць ідэнтыфікатар 2, а пярэдняя камера будзе выкарыстоўваць ідэнтыфікатар 3. Калі ваша прылада мае толькі адну камеру на пярэдняй панэлі, усталюйце ідэнтыфікатар кожнай пярэдняй камеры на 1 (значэнне па змаўчанні)</string>
-    <string name="hsl_info_author">Аўтар мадыфікацыі LMC8.4 - Hasli</string>
+    <string name="hsl_info_author">Аўтар мадыфікацыі LMC8.5 - Hasli (RU). Tecno &amp; Infinix Edition: Willy Gailo</string>
     <string name="hsl_info_thx">Асобная падзяка ўсім хто тэсціраваў і дапамагаў пры стварэнні мадыфікацыі. І распрацоўнікам іншых мадыфікацый, чые напрацоўкі маглі быць скарыстаны ў LMC: BSG, Arnova, Big-Kaka, Shamim, Rashid1980, Burial, Rivov, Tigr, Pit-Bull і іншыя.</string>
     <string name="hsl_info_focusnight">Змена значэнняў фокусу на дадзенай старонцы ўплывае толькі на перамыкач фокусу ў шторцы ў начным рэжыме</string>
     <string name="new_version_available">Для прылады \"Камера\" даступна абнаўленне.</string>
     <string name="hsl_info_config">Памятайце, канфігі не сумяшчальныя паміж рознымі мадыфікацыямі камеры ад розных распрацоўшчыкаў, і могуць мець сумяшчальнасць толькі ўнутры адной версіі прыкладання.</string>
-    <string name="hsl_info_version">"\"Выкарыстоўваецца Google Камера 8.4.300.
-Сумяшчальнасць з версіямі камеры 8.4.300, 8.4.400, магчыма 8.4.600\""</string>
+    <string name="hsl_info_version">"\"Выкарыстоўваецца Google Камера 8.5.300.
+Сумяшчальнасць з версіямі камеры 8.4.300, 8.4.400, 8.5.300\""</string>
     <string name="hsl_info_aux">Вы можаце выкарыстоўваць наладкі ад іншых магчымых модуляў як дадатковую наладу асноўнай камеры. Для гэтага ўкажыце ID асноўнай камеры насупраць патрэбнага модуля.</string>
     <string name="not_enough_motion_chip">Недастаткова руху</string>
     <string name="hsl_info_system">Налады на дадзенай старонцы адказваюць за стабільнасць і працаздольнасць прыкладання, не рэкамендуецца ўносіць змены без патрэбы.</string>
@@ -1100,11 +1100,11 @@ Resampling - Выбар метаду інтэрпаляцыі выніковаг
     <string name="hsl_ldrextra">Дадаткова</string>
     <string name="hsl_ldrlight">Святло і цень</string>
     <string name="hsl_confimport">Імпартаваць гатовыя канфігі</string>
-    <string name="hsl_confimport_desc">"Бягучыя наладкі будуць скінуты. У тэчцы /LMC8.4/з'явяцца канфігі для вашай мадэлі тэлефона."</string>
+    <string name="hsl_confimport_desc">"Бягучыя наладкі будуць скінуты. У тэчцы /LMC8.5/з'явяцца канфігі для вашай мадэлі тэлефона."</string>
     <string name="hsl_libs_title">Бібліятэка</string>
     <string name="hsl_libs_title_summary">Пры выкарыстанні іншых бібліятэк неабходна актываваць Sabre у наладах модуляў.</string>
-    <string name="hsl_libsave">Захавайце бібліятэку ў каталогу /LMC8.4/patchedlibs/</string>
-    <string name="hsl_libload">Вы можаце загрузіць лібу з каталога /LMC8.4/libs/. Абярыце (Custom Lib from Dir) і абярыце файл либы</string>
+    <string name="hsl_libsave">Захавайце бібліятэку ў каталогу /LMC8.5/patchedlibs/</string>
+    <string name="hsl_libload">Вы можаце загрузіць лібу з каталога /LMC8.5/libs/. Абярыце (Custom Lib from Dir) і абярыце файл либы</string>
     <string name="hsl_infolibsignature">Як падпісаць лібу?</string>
     <string name="hsl_curves">Настройка крывых</string>
     <string name="hsl_tonecurve">Тонавая крывая</string>

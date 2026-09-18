@@ -47,12 +47,12 @@
 
     if-nez v12, :cond_0
 
-    const-string v4, "yyyyMMdd_HHmmss_\'lmc_8.4\'"
+    const-string v4, "yyyyMMdd_HHmmss_\'lmc_8.5\'"
 
     goto :goto_0
 
     :cond_0
-    const-string v4, "d MMM HH:mm.\'lmc_8.4\'"
+    const-string v4, "d MMM HH:mm.\'lmc_8.5\'"
 
     :goto_0
     const-string v12, "pref_xmlfilename_key"

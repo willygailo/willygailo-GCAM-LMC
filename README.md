@@ -21,6 +21,12 @@ Custom Google Camera (LMC 8.5 mod) tailored and optimized for Transsion devices 
   - Configured high bitrate default (48 Mbps up to 120 Mbps).
   - Built-in fail-safe CamcorderProfile fallback to prevent crashes on aux/sub sensors.
 
+- **2026 Advanced Computational ISP Methods**:
+  - **SoftSharp 2.0 Micro-Contrast**: Eliminates harsh white halo edge artifacts while maintaining sharp micro-textures (hair, pores, textile fabrics).
+  - **Shasta Motion Deblur Engine**: High-frequency handheld blur suppression (`lib_sharpshastamotion_key`) for action shots and moving subjects.
+  - **Dynamic ISO Noise Coefficients**: Multi-scale bilateral noise suppression (`pref_iso_noise_coeff_key`) to eliminate color grain in shadows.
+  - **AWB Chromatic Gain Balancing**: Auto chromatic correction across red/blue/green channels to permanently prevent pink or greenish tints on MediaTek sensors.
+
 - **Transsion Device Hardware Compatibility**:
   - Automatic hardware detection and profile overrides for Tecno and Infinix devices.
   - Native video stabilization enabled by default.
@@ -33,7 +39,7 @@ Download the latest prebuilt, signed APK and configs directly from **[GitHub Rel
 | Asset | Type | Description | Direct Download |
 | :--- | :--- | :--- | :--- |
 | **LMC.8.5.apk** | Application | Signed APK for Tecno & Infinix | 🚀 **[Download APK (132 MB)](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/LMC.8.5.apk)** |
-| **LMC_Configs_Tecno_Infinix.zip** | All-in-One | Lahat ng 6 XML presets | 📦 **[Download ZIP (99 KB)](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/LMC_Configs_Tecno_Infinix.zip)** |
+| **LMC_Configs_Tecno_Infinix.zip** | All-in-One | Lahat ng 14 XML presets (2026 Edition) | 📦 **[Download ZIP (242 KB)](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/LMC_Configs_Tecno_Infinix.zip)** |
 
 - **Release Page**: [GitHub Release v8.5.0](https://github.com/willygailo/willygailo-GCAM-LMC/releases/tag/v8.5.0)
 - **Version Code**: `64764892`
@@ -48,6 +54,7 @@ Download the latest prebuilt, signed APK and configs directly from **[GitHub Rel
 
 | Preset File | Photography / Video Focus | Direct XML Download |
 | :--- | :--- | :--- |
+| ⚡ [`Tecno_Infinix_2026_Ultra_HDR.xml`](configs/Tecno_Infinix_2026_Ultra_HDR.xml) | **2026 Ultra HDR Flagship**: Next-gen 10-bit tonemap, SoftSharp 2.0, Shasta Motion Deblur, ISO noise coefficient, at AWB chromatic gain auto-calibration. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_2026_Ultra_HDR.xml)** |
 | 🌈 [`Tecno_Infinix_Super_Color_JPEG.xml`](configs/Tecno_Infinix_Super_Color_JPEG.xml) | **Super Color JPEG / Photo**: Extra vibrant daylight colors, rich saturation, punchy contrast, and 100% lossless JPEG quality. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Super_Color_JPEG.xml)** |
 | 🌈 [`Tecno_Infinix_Super_Color_Night.xml`](configs/Tecno_Infinix_Super_Color_Night.xml) | **Super Color Night & Astro**: Vivid night colors, 25-frame computational light fusion, clean low-light sky enhancer. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Super_Color_Night.xml)** |
 | 🌈 [`Tecno_Infinix_Super_Color_Video.xml`](configs/Tecno_Infinix_Super_Color_Video.xml) | **Super Color Video**: High-saturation vibrant 4K/60FPS video, studio bitrate, active Action Mode EIS+OIS. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Super_Color_Video.xml)** |

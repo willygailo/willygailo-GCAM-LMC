@@ -25,7 +25,7 @@
     <string name="lib_dehazedexpo_key_4">0</string>
     <string name="cw_rg_key_5">0.5925</string>
     <string name="lib_dehazedexpo_key_5">0</string>
-    <string name="lib_smoothingnew_key_front">0</string>
+    <string name="lib_smoothingnew_key_front">000080BF</string>
     <string name="pref_gammacurve_preset_key_5">0</string>
     <string name="lib_hightlight2_key_3">0</string>
     <string name="lib_hightlight2_key_4">0</string>
@@ -57,7 +57,7 @@
     <string name="lib_lumadh_l1_key_front">0</string>
     <string name="gr_5_key">-0.148</string>
     <string name="pref_model_key_tele">11</string>
-    <string name="lib_softsharpb_key">0</string>
+    <string name="lib_softsharpb_key">0410601E</string>
     <string name="lib_lumadls_l5_pro_key">0</string>
     <string name="lib_skipmetadatacheck_pro_key">0</string>
     <string name="lib_lumadh_l3_key">0</string>
@@ -84,8 +84,8 @@
     <string name="pref_raw_key_wide">1</string>
     <string name="lib_temporalbin_key_3">0</string>
     <string name="pref_color_key">0</string>
-    <string name="lib_smoothingnew_key_2">0</string>
-    <string name="lib_smoothingnew_key_3">0</string>
+    <string name="lib_smoothingnew_key_2">000080BF</string>
+    <string name="lib_smoothingnew_key_3">000080BF</string>
     <string name="lib_lutnoisefix_pro_key">0</string>
     <string name="lib_smoothingnew_key_4">0</string>
     <string name="lib_smoothingnew_key_5">0</string>
@@ -190,9 +190,9 @@
     <string name="lib_sharpmini_key_4">0</string>
     <string name="lib_lumadhsabre_l1a_key_4">0</string>
     <string name="lib_lumab_key_front">08FCE7D2</string>
-    <string name="lib_sharpmini_key_3">0</string>
+    <string name="lib_sharpmini_key_3">00002041</string>
     <string name="lib_sabrenoiseestimals_key_front">0</string>
-    <string name="lib_sharpmini_key_2">0</string>
+    <string name="lib_sharpmini_key_2">00002041</string>
     <string name="d50_bg_key_front">0.52432</string>
     <string name="lib_lightfix2_key">1F2003D5</string>
     <string name="lib_exposition_ldr_key">00D0251E</string>
@@ -291,7 +291,7 @@
     <string name="lib_lumadmsabre_l5a_key_3">0</string>
     <string name="lib_sabrelnewn_l5_key_3">0</string>
     <string name="lib_lumadhs_l3_key_front">0</string>
-    <string name="pref_iso_noise_coeff_key">1.0</string>
+    <string name="pref_iso_noise_coeff_key">0.5</string>
     <string name="pref_libs_fromdir_key_3">Google Stock</string>
     <string name="lib_lumadlsabre_l2_key_front">0</string>
     <string name="pref_design_key">7</string>
@@ -323,7 +323,7 @@
     <string name="lib_lumadhsabre_l4a_key_front">0</string>
     <string name="lib_saturation_key_3">08FEE7D2</string>
     <string name="lib_saturation_key_5">0</string>
-    <string name="lib_softsharpa_pro_key">0</string>
+    <string name="lib_softsharpa_pro_key">0310601E</string>
     <string name="lib_temporala_key">0</string>
     <string name="lib_hdrrangeplus_pro_key">0</string>
     <string name="lib_lumadmsabre_l3b_pro_key">0</string>
@@ -423,7 +423,7 @@
     <string name="lib_noisereductopacity_key_5">0</string>
     <string name="pref_noise_modeler_manual_b_1_key_4">4.9889366E-7</string>
     <string name="pref_white_level_key_5">0</string>
-    <string name="lib_sharpshastamotion_key">0</string>
+    <string name="lib_sharpshastamotion_key">00F0271E</string>
     <string name="lib_lumadlsabre_l1a_pro_key">0</string>
     <string name="pref_manual_cameraid_back_5_key">5</string>
     <string name="lib_smoothness_key_front">0</string>
@@ -453,7 +453,7 @@
     <string name="pref_grgb_back_key_4">6</string>
     <string name="lib_hdrrangeplus_key_2">0290241E</string>
     <string name="pref_grgb_back_key_5">6</string>
-    <string name="lib_denoisesmoothing_key_front">0</string>
+    <string name="lib_denoisesmoothing_key_front">00D02E1E</string>
     <string name="lib_volumeprocessing2_key_5">0</string>
     <string name="lib_volumeprocessing2_key_4">0</string>
     <string name="user_9_text">HDRE Max Frame Count</string>
@@ -483,7 +483,7 @@
     <string name="rr_0_key">1.68</string>
     <string name="lib_resamplmethod_pro_key">0</string>
     <string name="pref_satCCT_B_key_front">1.0</string>
-    <string name="lib_softsharpc_key_front">0</string>
+    <string name="lib_softsharpc_key_front">0510601E</string>
     <string name="lib_lumadhsabre_l4a_pro_key">0</string>
     <string name="lib_tunsupresshotpixel_key_front">7D520639</string>
     <string name="lib_chromaa_key_4">0</string>
@@ -590,7 +590,7 @@
     <string name="lib_lumadlsabre_l3b_pro_key">0</string>
     <string name="lib_lumadhsabre_l3_key_2">0</string>
     <string name="lib_lumadhsabre_l3_key_4">0</string>
-    <string name="lib_sharpmini_key_front">0</string>
+    <string name="lib_sharpmini_key_front">00002041</string>
     <string name="lib_lumadhsabre_l3_key_3">0</string>
     <string name="lib_denoisesmoothing_pro_key">0</string>
     <string name="pref_sabre_key_front">1</string>
@@ -910,7 +910,7 @@
     <string name="lib_saturation2_key_front">07102E1E</string>
     <string name="lib_contrastblack_key_front">9A99993F</string>
     <string name="lib_lutnoisefix_key_2">0C10221E</string>
-    <string name="lib_sharpmini_key">0</string>
+    <string name="lib_sharpmini_key">00002041</string>
     <string name="lib_lumadms_l1_pro_key">0</string>
     <string name="pref_has_checked_ornament_mode">0</string>
     <string name="lib_user_value_8" />
@@ -1133,7 +1133,7 @@
     <string name="lib_lumadhs_l3_key_4">0</string>
     <string name="lib_curve_pwhites_key_3">500</string>
     <string name="pref_izoom_key_id5">0</string>
-    <string name="lib_smoothingnew_key">0</string>
+    <string name="lib_smoothingnew_key">000080BF</string>
     <string name="pref_izoom_key_id4">0</string>
     <string name="lib_shadow_compensation_key_3">0</string>
     <string name="lib_shadow_compensation_key_2">0</string>
@@ -2791,4 +2791,8 @@
     <string name="pref_video_stabilization_key">1</string>
     <string name="pref_show_button_leica">1</string>
     <string name="pref_show_button_awb">1</string>
+    <string name="pref_fix_awbgains_key_1">1</string>
+    <string name="pref_fix_awbgains_key_2">1</string>
+    <string name="pref_fix_awbgains_key_3">1</string>
+    <string name="pref_fix_awbgains_key_front">1</string>
 </map>

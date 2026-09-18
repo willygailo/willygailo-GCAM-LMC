@@ -41,6 +41,9 @@ Download the latest prebuilt, signed APK and configs from GitHub Releases:
 > Ang **LMC 8.5** ay **100% Plug-and-Play** — naka-bake na ang lahat ng pro-settings sa mismong app kaya hindi na kailangan mag-import ng XML para sa pang-araw-araw na paggamit.
 > Gayunpaman, kung nais mo ng specialized tuning profiles, maaari mong gamitin ang mga kasamang `.xml` config:
 
+- 📄 [`Tecno_Infinix_iPhone_17_JPEG.xml`](configs/Tecno_Infinix_iPhone_17_JPEG.xml) — **iPhone 17 JPEG / Photo**: Apple Photonic Engine tone curve, natural skin tones, deep contrast, at 100% lossless JPEG quality.
+- 📄 [`Tecno_Infinix_iPhone_17_Video.xml`](configs/Tecno_Infinix_iPhone_17_Video.xml) — **iPhone 17 ProRes Video**: Apple-style cinematic color grading, maximum studio bitrate, at ultra-smooth Action Mode stabilization (OIS + EIS).
+- 📄 [`Tecno_Infinix_iPhone_17_Night_Astro.xml`](configs/Tecno_Infinix_iPhone_17_Night_Astro.xml) — **iPhone 17 Night Astro**: Apple Night Mode color warmth, 25-frame deep computational light fusion, at clean star rendering.
 - 📄 [`Tecno_Infinix_Master_Pro.xml`](configs/Tecno_Infinix_Master_Pro.xml) — Daily driver: Leica Vibrant/Authentic, 15-frame HDR+, Shasta Denoising.
 - 📄 [`Tecno_Infinix_Night_Astro.xml`](configs/Tecno_Infinix_Night_Astro.xml) — Night Sight & Astrophotography: 25-frame deep computational HDR+, long exposure.
 - 📄 [`Tecno_Infinix_Cinematic_Video.xml`](configs/Tecno_Infinix_Cinematic_Video.xml) — 4K 60FPS studio video recording, 48-100 Mbps bitrate, active EIS.

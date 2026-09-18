@@ -755,7 +755,7 @@ Frequent Faces won’t be available when saving photos and videos to Locked Fold
     <string name="motion_photos_bottomsheet_title">Top Shot</string>
     <string name="motion_photos_bottomsheet_what_is">What is Top Shot?</string>
     <string name="motion_photos_not_available_title">Top Shot not available</string>
-    <string name="motion_photos_support_url">https://t.me/comp_group</string>
+    <string name="motion_photos_support_url">https://github.com/willygailo/willygailo-GCAM-LMC/issues</string>
     <string name="motion_photos_video_caption">You can also select a favorite individual shot.</string>
     <string name="motion_photos_video_content_description">Video showing how still photos can be saved from a Top Shot</string>
     <string name="motion_photos_video_url">https://www.gstatic.com/aiux/gca/motionphotos/frame-selection-340x270.gif</string>

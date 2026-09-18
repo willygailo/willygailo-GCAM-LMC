@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <!-- LMC 8.5 Master Config by Willy Gailo (@willygailo) -->
+    <!-- Place this file into: Internal Storage/LMC8.5/ -->
+    <string name="pref_camera_model_key">18</string>
+    <string name="pref_hdrnet_key">1</string>
+    <string name="pref_config_version">8.5</string>
+    <string name="pref_author_key">Willy Gailo</string>
+    <string name="pref_repo_key">https://github.com/willygailo/willygailo-GCAM-LMC</string>
+</map>

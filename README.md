@@ -26,10 +26,15 @@ Custom Google Camera (LMC 8.5 mod) tailored and optimized for Transsion devices 
   - Native video stabilization enabled by default.
   - Optimized HDR+ frame count.
 
-## 📦 APK Downloads
+## 📦 APK & Config Downloads
 
-Download the latest prebuilt, signed APK and configs from GitHub Releases:
-- 🚀 **[Download LMC 8.5.apk (Direct Release)](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/LMC.8.5.apk)**
+Download the latest prebuilt, signed APK and configs directly from **[GitHub Release v8.5.0](https://github.com/willygailo/willygailo-GCAM-LMC/releases/tag/v8.5.0)**:
+
+| Asset | Type | Description | Direct Download |
+| :--- | :--- | :--- | :--- |
+| **LMC.8.5.apk** | Application | Signed APK for Tecno & Infinix | 🚀 **[Download APK (132 MB)](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/LMC.8.5.apk)** |
+| **LMC_Configs_Tecno_Infinix.zip** | All-in-One | Lahat ng 6 XML presets | 📦 **[Download ZIP (99 KB)](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/LMC_Configs_Tecno_Infinix.zip)** |
+
 - **Release Page**: [GitHub Release v8.5.0](https://github.com/willygailo/willygailo-GCAM-LMC/releases/tag/v8.5.0)
 - **Version Code**: `64764892`
 - **Version Name**: `8.5.300.414775575.18`
@@ -39,19 +44,21 @@ Download the latest prebuilt, signed APK and configs from GitHub Releases:
 
 > [!NOTE]
 > Ang **LMC 8.5** ay **100% Plug-and-Play** — naka-bake na ang lahat ng pro-settings sa mismong app kaya hindi na kailangan mag-import ng XML para sa pang-araw-araw na paggamit.
-> Gayunpaman, kung nais mo ng specialized tuning profiles, maaari mong gamitin ang mga kasamang `.xml` config:
+> Gayunpaman, kung nais mo ng specialized tuning profiles, maaari mong gamitin ang mga sumusunod na **Full-Schema LMC 8.4/8.5 XML configs** (tested at 100% importable nang walang crash o missing settings):
 
-- 📄 [`Tecno_Infinix_iPhone_17_JPEG.xml`](configs/Tecno_Infinix_iPhone_17_JPEG.xml) — **iPhone 17 JPEG / Photo**: Apple Photonic Engine tone curve, natural skin tones, deep contrast, at 100% lossless JPEG quality.
-- 📄 [`Tecno_Infinix_iPhone_17_Video.xml`](configs/Tecno_Infinix_iPhone_17_Video.xml) — **iPhone 17 ProRes Video**: Apple-style cinematic color grading, maximum studio bitrate, at ultra-smooth Action Mode stabilization (OIS + EIS).
-- 📄 [`Tecno_Infinix_iPhone_17_Night_Astro.xml`](configs/Tecno_Infinix_iPhone_17_Night_Astro.xml) — **iPhone 17 Night Astro**: Apple Night Mode color warmth, 25-frame deep computational light fusion, at clean star rendering.
-- 📄 [`Tecno_Infinix_Master_Pro.xml`](configs/Tecno_Infinix_Master_Pro.xml) — Daily driver: Leica Vibrant/Authentic, 15-frame HDR+, Shasta Denoising.
-- 📄 [`Tecno_Infinix_Night_Astro.xml`](configs/Tecno_Infinix_Night_Astro.xml) — Night Sight & Astrophotography: 25-frame deep computational HDR+, long exposure.
-- 📄 [`Tecno_Infinix_Cinematic_Video.xml`](configs/Tecno_Infinix_Cinematic_Video.xml) — 4K 60FPS studio video recording, 48-100 Mbps bitrate, active EIS.
+| Preset File | Photography / Video Focus | Direct XML Download |
+| :--- | :--- | :--- |
+| 📄 [`Tecno_Infinix_iPhone_17_JPEG.xml`](configs/Tecno_Infinix_iPhone_17_JPEG.xml) | **iPhone 17 JPEG / Photo**: Apple Photonic Engine tone curve, natural skin tones, deep contrast, at 100% lossless JPEG quality. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_iPhone_17_JPEG.xml)** |
+| 📄 [`Tecno_Infinix_iPhone_17_Video.xml`](configs/Tecno_Infinix_iPhone_17_Video.xml) | **iPhone 17 ProRes Video**: Apple-style cinematic color grading, maximum studio bitrate, at ultra-smooth Action Mode stabilization (OIS + EIS). | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_iPhone_17_Video.xml)** |
+| 📄 [`Tecno_Infinix_iPhone_17_Night_Astro.xml`](configs/Tecno_Infinix_iPhone_17_Night_Astro.xml) | **iPhone 17 Night Astro**: Apple Night Mode color warmth, 25-frame deep computational light fusion, at clean star rendering. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_iPhone_17_Night_Astro.xml)** |
+| 📄 [`Tecno_Infinix_Master_Pro.xml`](configs/Tecno_Infinix_Master_Pro.xml) | **Master Pro**: Daily driver with Leica Vibrant/Authentic color science, 15-frame HDR+, Shasta Denoising. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Master_Pro.xml)** |
+| 📄 [`Tecno_Infinix_Night_Astro.xml`](configs/Tecno_Infinix_Night_Astro.xml) | **Night Sight & Astro**: 25-frame deep computational HDR+, long exposure low-light star capture. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Night_Astro.xml)** |
+| 📄 [`Tecno_Infinix_Cinematic_Video.xml`](configs/Tecno_Infinix_Cinematic_Video.xml) | **Cinematic Video**: 4K 60FPS studio video recording, 48-100 Mbps bitrate, active EIS. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Cinematic_Video.xml)** |
 
 ### Paano I-load ang XML Config:
 1. Gumawa ng folder sa phone storage: `Internal Storage/LMC8.4/`
 2. Kopyahin ang nais na `.xml` file sa loob ng folder na `LMC8.4`.
-3. Buksan ang GCAM LMC 8.5.
+3. Buksan ang **GCAM LMC 8.5**.
 4. **Mag-double tap sa black space sa paligid o tabi ng Shutter Button**.
 5. Piliin ang config mula sa pop-up menu at pindutin ang **Import**.
 

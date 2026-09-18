@@ -1,5 +1,13 @@
 # GCAM LMC 8.5 (Tecno & Infinix Edition)
 
+<div align="center">
+
+[![Watch GCAM LMC 8.5 Video Demo](https://i.pinimg.com/originals/ae/e6/21/aee621531d88054ed5441b0df49efda0.jpg)](https://ph.pinterest.com/pin/882564858198206050/)
+
+[![Pinterest Video](https://img.shields.io/badge/Watch_Demo_Video-Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://ph.pinterest.com/pin/882564858198206050/)
+
+</div>
+
 Custom Google Camera (LMC 8.5 mod) tailored and optimized for Transsion devices (Tecno, Infinix, and iTel), including models like the Tecno Camon 40 Pro 5G, Infinix GT, Zero, and Note series.
 
 ## ✨ Features & Optimizations

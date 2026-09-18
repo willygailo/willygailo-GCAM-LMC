@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Watch GCAM LMC 8.5 Video Demo](https://i.pinimg.com/originals/ae/e6/21/aee621531d88054ed5441b0df49efda0.jpg)](https://ph.pinterest.com/pin/882564858198206050/)
+[![Watch GCAM LMC 8.5 Video Demo](assets/preview.gif)](https://ph.pinterest.com/pin/882564858198206050/)
 
 </div>
 

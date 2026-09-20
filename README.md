@@ -39,7 +39,7 @@ Download the latest prebuilt, signed APK and configs directly from **[GitHub Rel
 | Asset | Type | Description | Direct Download |
 | :--- | :--- | :--- | :--- |
 | **LMC.8.5.apk** | Application | Signed APK for Tecno & Infinix | 🚀 **[Download APK (132 MB)](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/LMC.8.5.apk)** |
-| **LMC_Configs_Tecno_Infinix.zip** | All-in-One | Lahat ng 41 XML presets (All Presets in 1 Single ZIP) | 📦 **[Download ZIP (633 KB)](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/LMC_Configs_Tecno_Infinix.zip)** |
+| **LMC_Configs_Tecno_Infinix.zip** | All-in-One | Lahat ng 46 XML presets (All Presets in 1 Single ZIP) | 📦 **[Download ZIP (650 KB)](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/LMC_Configs_Tecno_Infinix.zip)** |
 
 - **Release Page**: [GitHub Release v8.5.0](https://github.com/willygailo/willygailo-GCAM-LMC/releases/tag/v8.5.0)
 - **Version Code**: `64764892`
@@ -50,13 +50,18 @@ Download the latest prebuilt, signed APK and configs directly from **[GitHub Rel
 
 > [!NOTE]
 > Ang **LMC 8.5** ay **100% Plug-and-Play** — naka-bake na ang lahat ng pro-settings sa mismong app kaya hindi na kailangan mag-import ng XML para sa pang-araw-araw na paggamit.
-> Gayunpaman, kung nais mo ng specialized tuning profiles, maaari mong gamitin ang mga sumusunod na **Full-Schema LMC 8.5 XML configs** (tested at 100% importable nang walang crash o missing settings):
+> Gayunpaman, kung nais mo ng specialized tuning profiles, maaari mong gamitin ang mga sumusunod na **Full-Schema LMC 8.5 / 8.4 XML configs** (tested at 100% importable nang walang crash o missing settings):
 
 | Preset File | Photography / Video Focus | Direct XML Download |
 | :--- | :--- | :--- |
 | ⚡ [`Tecno_Infinix_2026_Ultra_HDR_JPEG.xml`](configs/Tecno_Infinix_2026_Ultra_HDR_JPEG.xml) | **2026 Ultra HDR JPEG / Daylight**: 2026 next-gen 10-bit tonemap, SoftSharp 2.0, Shasta Motion Deblur, ISO noise coefficient, at 100% lossless JPEG. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_2026_Ultra_HDR_JPEG.xml)** |
 | ⚡ [`Tecno_Infinix_2026_Ultra_HDR_Night.xml`](configs/Tecno_Infinix_2026_Ultra_HDR_Night.xml) | **2026 Ultra HDR Night & Astro**: Low-light 10-bit dynamic range, 25-frame computational fusion, AWB chromatic gain fix, long exposure sky boost. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_2026_Ultra_HDR_Night.xml)** |
 | ⚡ [`Tecno_Infinix_2026_Ultra_HDR_Video.xml`](configs/Tecno_Infinix_2026_Ultra_HDR_Video.xml) | **2026 Ultra HDR Video**: 4K/60FPS studio bitrate recording, 10-bit dynamic HDR video tonemapping, active Action Mode EIS+OIS. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_2026_Ultra_HDR_Video.xml)** |
+| 👑 [`Tecno_Infinix_Hasselblad_True_Color_JPEG.xml`](configs/Tecno_Infinix_Hasselblad_True_Color_JPEG.xml) | **Hasselblad True Color (HNCS)**: Hasselblad Natural Color Solution, Swedish organic skin tone fidelity, anti-green tint CCT tuning, lossless JPEG. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Hasselblad_True_Color_JPEG.xml)** |
+| 📷 [`Tecno_Infinix_Ricoh_GR_Street_BW_JPEG.xml`](configs/Tecno_Infinix_Ricoh_GR_Street_BW_JPEG.xml) | **Ricoh GR III Street B&W**: Iconic 28mm high-acutance monochrome street look, deep crushed shadows, film contrast, zero chromatic noise. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Ricoh_GR_Street_BW_JPEG.xml)** |
+| 🎥 [`Tecno_Infinix_Sony_S_Cinetone_Video.xml`](configs/Tecno_Infinix_Sony_S_Cinetone_Video.xml) | **Sony Alpha S-Cinetone 4K60 Video**: Cinema broadcast dynamic curve, soft highlight roll-off, flattering facial tones, active EIS+OIS. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Sony_S_Cinetone_Video.xml)** |
+| 🔬 [`Tecno_Infinix_Arcide_DSLR_Fine_Detail_JPEG.xml`](configs/Tecno_Infinix_Arcide_DSLR_Fine_Detail_JPEG.xml) | **Arcide DSLR Fine Detail**: Community legend Arcide dual-radius acutance tuning, zero white-halo ringing, pristine micro-texture retention. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Arcide_DSLR_Fine_Detail_JPEG.xml)** |
+| 🌌 [`Tecno_Infinix_Carlos_Hyper_Night_Astro.xml`](configs/Tecno_Infinix_Carlos_Hyper_Night_Astro.xml) | **Carlos Hyper Night & Astro**: 27-frame temporal light fusion, locked black level floor (`bl0_key=64`), obsidian pitch-black night skies. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Carlos_Hyper_Night_Astro.xml)** |
 | 🌈 [`Tecno_Infinix_Super_Color_JPEG.xml`](configs/Tecno_Infinix_Super_Color_JPEG.xml) | **Super Color JPEG / Photo**: Extra vibrant daylight colors, rich saturation, punchy contrast, and 100% lossless JPEG quality. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Super_Color_JPEG.xml)** |
 | 🌈 [`Tecno_Infinix_Super_Color_Night.xml`](configs/Tecno_Infinix_Super_Color_Night.xml) | **Super Color Night & Astro**: Vivid night colors, 25-frame computational light fusion, clean low-light sky enhancer. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Super_Color_Night.xml)** |
 | 🌈 [`Tecno_Infinix_Super_Color_Video.xml`](configs/Tecno_Infinix_Super_Color_Video.xml) | **Super Color Video**: High-saturation vibrant 4K/60FPS video, studio bitrate, active Action Mode EIS+OIS. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Super_Color_Video.xml)** |
@@ -96,9 +101,11 @@ Download the latest prebuilt, signed APK and configs directly from **[GitHub Rel
 | 🍲 [`Tecno_Infinix_Food_Vlog_4K60_Video.xml`](configs/Tecno_Infinix_Food_Vlog_4K60_Video.xml) | **Food & Vlog 4K60 HDR Video**: Vivid culinary & daily vlog color grading, smooth 60fps walking stabilization. | ⬇️ **[Download XML](https://github.com/willygailo/willygailo-GCAM-LMC/releases/download/v8.5.0/Tecno_Infinix_Food_Vlog_4K60_Video.xml)** |
 
 ### Paano I-load ang XML Config:
-1. Gumawa ng folder sa phone storage: `Internal Storage/LMC8.5/`
-2. Kopyahin ang nais na `.xml` file sa loob ng folder na `LMC8.5`.
-3. Buksan ang **GCAM LMC 8.5**.
+1. Gumawa ng folder sa phone internal storage:
+   - Para sa **LMC 8.5**: `Internal Storage/LMC8.5/`
+   - Para sa **LMC 8.4** (kung gumagamit ka rin ng LMC 8.4 R17/R18): `Internal Storage/LMC8.4/`
+2. Kopyahin ang nais na `.xml` file sa loob ng folder.
+3. Buksan ang **GCAM LMC**.
 4. **Mag-double tap sa black space sa paligid o tabi ng Shutter Button**.
 5. Piliin ang config mula sa pop-up menu at pindutin ang **Import**.
 

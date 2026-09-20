@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-    <!-- Ricoh GR III Street High-Contrast B&W - Gritty 28mm Acutance & Crushed Shadows by Willy Gailo (@willygailo) -->
+    <!-- Tecno & Infinix Master Config: Tecno_Infinix_Ricoh_GR_Street_BW_JPEG.xml by Willy Gailo (@willygailo) -->
     <string name="lib_lumadhs_l2_pro_key">0</string>
     <string name="lib_lumadls_l4_key_front">0</string>
     <string name="pref_sabre_key_main">1</string>
@@ -91,7 +91,7 @@
     <string name="lib_smoothingnew_key_5">0</string>
     <string name="lib_lumab_key_3">0</string>
     <string name="lib_lumab_key_2">0</string>
-    <string name="pref_Copmode_video_key">0</string>
+    <string name="pref_Copmode_video_key">61444</string>
     <string name="lib_spatialdenmi2_key_3">0</string>
     <string name="lib_spatialdenmi2_key_2">0</string>
     <string name="pref_Copmode_motion_key_2">0</string>
@@ -459,7 +459,7 @@
     <string name="lib_allowtemporalbinning_key_2">0</string>
     <string name="lib_lumadhsabre_l3b_key">0</string>
     <string name="lib_allowtemporalbinning_key_3">0</string>
-    <string name="pref_video_fps_4k_key">FPS_30</string>
+    <string name="pref_video_fps_4k_key">FPS_60</string>
     <string name="lib_allowtemporalbinning_key_4">0</string>
     <string name="rr_0_key">1.68</string>
     <string name="lib_resamplmethod_pro_key">0</string>
@@ -760,7 +760,7 @@
     <string name="lib_temporala_key_2">0</string>
     <string name="lib_temporala_key_5">0</string>
     <string name="lib_temporala_key_4">0</string>
-    <string name="pref_hdrnet_key">0</string>
+    <string name="pref_hdrnet_key">1</string>
     <string name="lib_lumadlsabre_l1a_key">0</string>
     <string name="lib_brightnessintensity_pro_key">0</string>
     <string name="pref_enable_patcher_key">1</string>
@@ -1337,7 +1337,7 @@
     <string name="lib_clarity_key_3">0</string>
     <string name="pref_noise_modeler_manual_c_1_key">1.9878738E-12</string>
     <string name="lib_clarity_key_2">0</string>
-    <string name="pref_video_resolution">RES_1080P</string>
+    <string name="pref_video_resolution">RES_2160P</string>
     <string name="lib_contrast_2_key_4">0</string>
     <string name="lib_lumadl_l2_key_4">0</string>
     <string name="pref_merge_key_wide">0</string>
@@ -1906,7 +1906,7 @@
     <string name="lib_lumadlsabre_l2b_key_5">0</string>
     <string name="lib_user_value_10"></string>
     <string name="lib_simultaneousmerge_pro_key">0</string>
-    <string name="pref_video_hevc_setting_key">0</string>
+    <string name="pref_video_hevc_setting_key">1</string>
     <string name="lib_expocomp_key_3">0</string>
     <string name="lib_hdrraw2_key_5">0</string>
     <string name="lib_expocomp_key_2">0</string>
@@ -2679,4 +2679,8 @@
     <string name="lib_gamma_whites_key">18</string>
     <string name="lib_gamma_darks_key">-20</string>
     <string name="pref_config_name">Tecno_Infinix_Ricoh_GR_Street_BW_JPEG</string>
+    <string name="pref_video_fps_p2018">60</string>
+    <string name="pref_camera_video_stabilization_key">1</string>
+    <string name="camcorder.4k60fps">1</string>
+    <string name="fps_video_setting_writeable">1</string>
 </map>
